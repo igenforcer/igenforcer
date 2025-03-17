@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igenforcer
+- 👋 Hi, I’m Kabir-KD
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning WebDevelopment,python
 - 💞️ I’m looking to collaborate on Webdevlopment and AI 
